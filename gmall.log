@@ -1,0 +1,9 @@
+{"logType":"event","area":"guizhou","uid":"uid4004","eventId":"coupon","itemId":10,"os":"android","nextPageId":44,"appId":"gmall","mid":"mid_370","pageId":22,"ts":1597722495883}
+{"logType":"startup","area":"heilongjiang","uid":"uid7297","os":"android","appId":"gmall","channel":"wandoujia","mid":"mid_33","version":"1.2.0","ts":1597722599784}
+{"logType":"startup","area":"beijing","uid":"uid6732","os":"android","appId":"gmall","channel":"wandoujia","mid":"mid_222","version":"1.2.0","ts":1597722648837}
+{"logType":"startup","area":"hebei","uid":"uid1025","os":"android","appId":"gmall","channel":"website","mid":"mid_74","version":"1.1.3","ts":1597724634394}
+{"logType":"startup","area":"guangdong","uid":"uid242","os":"android","appId":"gmall","channel":"360","mid":"mid_44","version":"1.2.0","ts":1597729612923}
+{"logType":"startup","area":"shandong","uid":"uid7368","os":"android","appId":"gmall","channel":"wandoujia","mid":"mid_404","version":"1.1.3","ts":1597730940307}
+{"logType":"event","area":"shandong","uid":"uid7368","eventId":"coupon","itemId":34,"os":"android","nextPageId":14,"appId":"gmall","mid":"mid_404","pageId":50,"ts":1597731000567}
+{"logType":"event","area":"shandong","uid":"uid7368","eventId":"addCart","itemId":34,"os":"android","nextPageId":21,"appId":"gmall","mid":"mid_404","pageId":28,"ts":1597731060683}
+{"logType":"startup","area":"shanghai","uid":"uid3451","os":"android","appId":"gmall","channel":"360","mid":"mid_348","version":"1.1.3","ts":1597731149341}
